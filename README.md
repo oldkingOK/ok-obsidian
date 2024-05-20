@@ -7,6 +7,7 @@ oldkingOK 的Obsidian仓库模板，包含了一些插件和仓库设置，避�
 1. Setting - File & Links - Detect all file extensions
 2. Community Plugins Enable
 3. mkdocs.yml 的 `markdown_extensions` 取消 `attr_list` 的注释——以支持python-markdown语法
+4. 设置博客模板——创建文件后点击左侧 `Insert template` 即可插入博客头
 
 ## 使用的插件
 
