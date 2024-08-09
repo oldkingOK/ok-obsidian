@@ -6,5 +6,6 @@
   "vscode-editor",
   "open-vscode",
   "codeblock-customizer",
-  "image-converter"
+  "image-converter",
+  "remember-cursor-position"
 ]
