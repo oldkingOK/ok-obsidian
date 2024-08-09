@@ -2,7 +2,18 @@
 
 oldkingOK 的Obsidian仓库模板，包含了一些插件和仓库设置，避免每次创建仓库繁琐的重复操作
 
-## 设置
+## 个性化设置
+
+修改 `mkdocs.yml`
+
+```yaml
+site_name: obsidian-mkdocs template # 网站显示名称
+plugins: # 插件，删除以下两项即可关闭博客功能
+    - blog
+    - rss
+```
+
+## 已设置
 
 1. Setting - File & Links - Detect all file extensions
 2. Community Plugins Enable
